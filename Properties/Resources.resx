@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="formBusy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LUT_FileLocator_Icon.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MagnifyingGlass_100pix" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MagnifyingGlass_100pix.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Cursor_Selector_Both" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Cursor_Selector_Both.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Cursor_Selector_Content" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Cursor_Selector_Content.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Cursor_Selector_Heading" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Cursor_Selector_Heading.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Cursor_Selector_None" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Cursor_Selector_None.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Dictionary" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Dictionary.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Notes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Notes.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Selection" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Selection.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Words" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Words.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DictionarySelection" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DictionarySelection.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_File_Load" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_File_Load.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_File_Load_Highlight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_File_Load_Highlight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_File_New" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_File_New.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_File_New_Highlight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_File_New_Highlight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_File_Save" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_File_Save.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_File_SaveAs" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_File_SaveAs.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_File_SaveAs_Highlight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_File_SaveAs_Highlight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_File_Save_Highlight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_File_Save_Highlight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_Font_Bold" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_Font_Bold.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_Font_Bold_Highlight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_Font_Bold_Highlight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_Font_Italic" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_Font_Italic.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_Font_Italic_Highlight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_Font_Italic_Highlight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_Font_Strikeout" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_Font_Strikeout.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_Font_Strikeout_Highlight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_Font_Strikeout_Highlight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_Font_Underline" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_Font_Underline.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_Font_Underline_Highlight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_Font_Underline_Highlight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_HighLighter_Dull" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_HighLighter_Dull.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_HighLighter_Highlight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_HighLighter_Highlight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_SpellChecker" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_SpellChecker.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_SpellChecker_Highlight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_SpellChecker_Highlight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_SubScript" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_SubScript.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_SubScript_Highlight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_SubScript_Highlight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_SuperScript" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_SuperScript.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_SuperScript_Highlight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_SuperScript_Highlight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_ToolTip_Toggle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_ToolTip_Toggle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_ToolTip_Toggle_Highlight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_ToolTip_Toggle_Highlight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Search_Text" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Search Text.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_LexiconEditor" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_LexiconEditor.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_LexiconEditor_Highlight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_LexiconEditor_Highlight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_Thesaurus" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_Thesaurus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_Thesaurus_Highlight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_Thesaurus_Highlight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_Align_Center" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_Align_Center.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_Align_Center_Highlight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_Align_Center_Highlight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_Align_Left" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_Align_Left.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_Align_Left_Highlight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_Align_Left_Highlight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_Align_Right" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_Align_Right.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_Align_Right_Highlight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_Align_Right_Highlight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_FontDecrease" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_FontDecrease.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_FontDecrease_Highlight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_FontDecrease_Highlight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_FontIncrease" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_FontIncrease.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_FontIncrease_Highlight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_FontIncrease_Highlight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_Picture_Insert" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_Picture_Insert.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_Picture_Insert_Highlight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_Picture_Insert_Highlight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btnNotes_MainScreen" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btnNotes_MainScreen.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btnNotes_MainScreen_Highlight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btnNotes_MainScreen_Highlight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Keyboard_BLANK" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Keyboard BLANK.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Main_Editor" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Main Editor.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_CopyCutter" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_CopyCutter.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_CopyCutter_Highlight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_CopyCutter_Highlight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_FindWord" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_FindWord.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_FindWord__Highlight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_FindWord _Highlight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NotePilot_Button_Add" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NotePilot_Button_Add.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NotePilot_Button_Add_Highlight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NotePilot_Button_Add_Highlight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NotePilot_Button_Collapse" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NotePilot_Button_Collapse.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NotePilot_Button_Collapse_Highlight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NotePilot_Button_Collapse_Highlight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NotePilot_Button_Down" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NotePilot_Button_Down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NotePilot_Button_Down_Highlight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NotePilot_Button_Down_Highlight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NotePilot_Button_Expand" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NotePilot_Button_Expand.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NotePilot_Button_Expand_Highlight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NotePilot_Button_Expand_Highlight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NotePilot_Button_FileValid_False" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NotePilot_Button_FileValid_False.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NotePilot_Button_FileValid_False_Highlight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NotePilot_Button_FileValid_False_Highlight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NotePilot_Button_FileValid_True" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NotePilot_Button_FileValid_True.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NotePilot_Button_FileValid_True_Highlight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NotePilot_Button_FileValid_True_Highlight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NotePilot_Button_Sub" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NotePilot_Button_Sub.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NotePilot_Button_Sub_Highlight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NotePilot_Button_Sub_Highlight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NotePilot_Button_Up" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NotePilot_Button_Up.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NotePilot_Button_Up_Highlight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NotePilot_Button_Up_Highlight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NotePilot_Button_Enum" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NotePilot_Button_Enum.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NotePilot_Button_Enum_Highlight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NotePilot_Button_Enum_Highlight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NotePilot_Button_EditMain" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NotePilot_Button_EditMain.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NotePilot_Button_EditMain_Highlight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NotePilot_Button_EditMain_Highlight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NotePilot_Button_Project" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NotePilot_Button_Project.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NotePilot_Button_Project_Highlight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NotePilot_Button_Project_Highlight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Cursor_Collapse" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Cursor_Collapse.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Cursor_Expand" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Cursor_Expand.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Cursor_Garbage" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Cursor_Garbage.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Cursor_InsertWord" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Cursor_InsertWord.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Cursor_RecallWord" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Cursor_RecallWord.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_Lock" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_Lock.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_Lock_Highlight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_Lock_Highlight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cursor_MoveWord_Left" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cursor_MoveWord_Left.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cursor_MoveWord_Right" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cursor_MoveWord_Right.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cursor_Capitalize" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cursor_Capitalize.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_Redo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_Redo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_Redo_Disabled" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_Redo_Disabled.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_Redo_Highlight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_Redo_Highlight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_Undo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_Undo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_Undo_Disabled" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_Undo_Disabled.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ck_RichTextBox_Button_Undo_Highlight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ck_RichTextBox_Button_Undo_Highlight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btnNotes_Lock_closed_highlight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btnNotes_Lock_closed_highlight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btnNotes_Lock_closed_idle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btnNotes_Lock_closed_idle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btnNotes_Lock_open_highlight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btnNotes_Lock_open_highlight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btnNotes_Lock_open_idle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btnNotes_Lock_open_idle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

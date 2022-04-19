@@ -1,0 +1,1866 @@
+<Root>
+  <Main_Editor>0_Trading_With_the_Enemy45_Character Descriptions58_Mary-Lynn</Main_Editor>
+  <Alt_Editor>0_Trading_With_the_Enemy46_Historical events72_Irish Potato Famine</Alt_Editor>
+  <cParent>0_Trading_With_the_Enemy46_Historical events</cParent>
+  <HeadingList>
+    <xNote>
+      <Title>Trading_With_the_Enemy</Title>
+      <Note_ID>0_Trading_With_the_Enemy</Note_ID>
+      <ChapterNumeral>0</ChapterNumeral>
+      <Path>c:\writer\trading with the enemy\chapters\</Path>
+      <FileValid>False</FileValid>
+      <POV>
+      </POV>
+      <Date-Time>
+        <Year>0</Year>
+        <Month>1</Month>
+        <Day>1</Day>
+        <Hour>0</Hour>
+        <Minute>0</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>NULL</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>1</Tab_1>
+        <Tab_2>1</Tab_2>
+        <Tab_3>134</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Chapters</Title>
+      <Note_ID>0_Trading_With_the_Enemy1_Chapters</Note_ID>
+      <ChapterNumeral>0</ChapterNumeral>
+      <Path>c:\writer\trading with the enemy\chapters\</Path>
+      <FileValid>False</FileValid>
+      <POV>
+      </POV>
+      <Date-Time>
+        <Year>0</Year>
+        <Month>1</Month>
+        <Day>1</Day>
+        <Hour>0</Hour>
+        <Minute>0</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>76</Tab_1>
+        <Tab_2>45</Tab_2>
+        <Tab_3>134</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Code Updates</Title>
+      <Note_ID>0_Trading_With_the_Enemy1_Chapters2_Code Updates</Note_ID>
+      <ChapterNumeral>0</ChapterNumeral>
+      <Path>c:\writer\trading with the enemy\chapters\</Path>
+      <FileValid>True</FileValid>
+      <POV>
+      </POV>
+      <Date-Time>
+        <Year>0</Year>
+        <Month>1</Month>
+        <Day>1</Day>
+        <Hour>0</Hour>
+        <Minute>0</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy1_Chapters</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>The Drunkard</Title>
+      <Note_ID>0_Trading_With_the_Enemy1_Chapters3_The Drunkard</Note_ID>
+      <ChapterNumeral>1</ChapterNumeral>
+      <Path>c:\writer\trading with the enemy\chapters\</Path>
+      <FileValid>True</FileValid>
+      <POV>Michael</POV>
+      <Date-Time>
+        <Year>1845</Year>
+        <Month>5</Month>
+        <Day>10</Day>
+        <Hour>7</Hour>
+        <Minute>30</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy1_Chapters</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>1</Tab_1>
+        <Tab_2>1</Tab_2>
+        <Tab_3>222</Tab_3>
+        <Tab_4>1</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Rosy</Title>
+      <Note_ID>0_Trading_With_the_Enemy1_Chapters4_Rosy</Note_ID>
+      <ChapterNumeral>2</ChapterNumeral>
+      <Path>c:\writer\trading with the enemy\chapters\</Path>
+      <FileValid>True</FileValid>
+      <POV>Mairead O'Reilly</POV>
+      <Date-Time>
+        <Year>1845</Year>
+        <Month>5</Month>
+        <Day>10</Day>
+        <Hour>10</Hour>
+        <Minute>25</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy1_Chapters</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Laudanum</Title>
+      <Note_ID>0_Trading_With_the_Enemy1_Chapters5_Laudanum</Note_ID>
+      <ChapterNumeral>3</ChapterNumeral>
+      <Path>c:\writer\trading with the enemy\chapters\</Path>
+      <FileValid>True</FileValid>
+      <POV>Michael</POV>
+      <Date-Time>
+        <Year>1845</Year>
+        <Month>5</Month>
+        <Day>12</Day>
+        <Hour>8</Hour>
+        <Minute>10</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy1_Chapters</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Medical Marvel</Title>
+      <Note_ID>0_Trading_With_the_Enemy1_Chapters6_Medical Marvel</Note_ID>
+      <ChapterNumeral>21</ChapterNumeral>
+      <Path>c:\writer\trading with the enemy\chapters\</Path>
+      <FileValid>True</FileValid>
+      <POV>Dr Emmerson</POV>
+      <Date-Time>
+        <Year>1845</Year>
+        <Month>7</Month>
+        <Day>12</Day>
+        <Hour>11</Hour>
+        <Minute>33</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy1_Chapters</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>King's Evil</Title>
+      <Note_ID>0_Trading_With_the_Enemy1_Chapters7_King's Evil</Note_ID>
+      <ChapterNumeral>4</ChapterNumeral>
+      <Path>c:\writer\trading with the enemy\chapters\</Path>
+      <FileValid>True</FileValid>
+      <POV>MaryLynn</POV>
+      <Date-Time>
+        <Year>1845</Year>
+        <Month>5</Month>
+        <Day>15</Day>
+        <Hour>7</Hour>
+        <Minute>45</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy1_Chapters</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Onanistic Fever</Title>
+      <Note_ID>0_Trading_With_the_Enemy1_Chapters8_Onanistic Fever</Note_ID>
+      <ChapterNumeral>5</ChapterNumeral>
+      <Path>c:\writer\trading with the enemy\chapters\</Path>
+      <FileValid>True</FileValid>
+      <POV>Dr Emmerson</POV>
+      <Date-Time>
+        <Year>1845</Year>
+        <Month>5</Month>
+        <Day>15</Day>
+        <Hour>14</Hour>
+        <Minute>35</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy1_Chapters</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>29</Tab_1>
+        <Tab_2>29</Tab_2>
+        <Tab_3>120</Tab_3>
+        <Tab_4>84</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Front Door</Title>
+      <Note_ID>0_Trading_With_the_Enemy1_Chapters9_Front Door</Note_ID>
+      <ChapterNumeral>6</ChapterNumeral>
+      <Path>c:\writer\trading with the enemy\chapters\</Path>
+      <FileValid>True</FileValid>
+      <POV>Michael</POV>
+      <Date-Time>
+        <Year>1845</Year>
+        <Month>5</Month>
+        <Day>16</Day>
+        <Hour>10</Hour>
+        <Minute>35</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy1_Chapters</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Cageling</Title>
+      <Note_ID>0_Trading_With_the_Enemy1_Chapters10_Cageling</Note_ID>
+      <ChapterNumeral>7</ChapterNumeral>
+      <Path>c:\writer\trading with the enemy\chapters\</Path>
+      <FileValid>True</FileValid>
+      <POV>Mrs Emmerson</POV>
+      <Date-Time>
+        <Year>1845</Year>
+        <Month>5</Month>
+        <Day>20</Day>
+        <Hour>10</Hour>
+        <Minute>45</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy1_Chapters</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Asylum</Title>
+      <Note_ID>0_Trading_With_the_Enemy1_Chapters11_Asylum</Note_ID>
+      <ChapterNumeral>8</ChapterNumeral>
+      <Path>c:\writer\trading with the enemy\chapters\</Path>
+      <FileValid>True</FileValid>
+      <POV>Mairead O'Reilly</POV>
+      <Date-Time>
+        <Year>1845</Year>
+        <Month>5</Month>
+        <Day>20</Day>
+        <Hour>15</Hour>
+        <Minute>45</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy1_Chapters</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Fence</Title>
+      <Note_ID>0_Trading_With_the_Enemy1_Chapters12_Fence</Note_ID>
+      <ChapterNumeral>9</ChapterNumeral>
+      <Path>c:\writer\trading with the enemy\chapters\</Path>
+      <FileValid>True</FileValid>
+      <POV>Michael</POV>
+      <Date-Time>
+        <Year>1845</Year>
+        <Month>5</Month>
+        <Day>22</Day>
+        <Hour>10</Hour>
+        <Minute>9</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy1_Chapters</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Sailor</Title>
+      <Note_ID>0_Trading_With_the_Enemy1_Chapters13_Sailor</Note_ID>
+      <ChapterNumeral>10</ChapterNumeral>
+      <Path>C:\Writer\Trading With the Enemy\Chapters\</Path>
+      <FileValid>True</FileValid>
+      <POV>Hua Tuo</POV>
+      <Date-Time>
+        <Year>1845</Year>
+        <Month>6</Month>
+        <Day>1</Day>
+        <Hour>10</Hour>
+        <Minute>45</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy1_Chapters</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Father</Title>
+      <Note_ID>0_Trading_With_the_Enemy1_Chapters14_Father</Note_ID>
+      <ChapterNumeral>15</ChapterNumeral>
+      <Path>c:\writer\trading with the enemy\chapters\</Path>
+      <FileValid>True</FileValid>
+      <POV>Sailor</POV>
+      <Date-Time>
+        <Year>1845</Year>
+        <Month>6</Month>
+        <Day>1</Day>
+        <Hour>10</Hour>
+        <Minute>49</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy1_Chapters</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Visitor</Title>
+      <Note_ID>0_Trading_With_the_Enemy1_Chapters15_Visitor</Note_ID>
+      <ChapterNumeral>12</ChapterNumeral>
+      <Path>c:\writer\trading with the enemy\chapters\</Path>
+      <FileValid>True</FileValid>
+      <POV>MaryLynn</POV>
+      <Date-Time>
+        <Year>1845</Year>
+        <Month>6</Month>
+        <Day>11</Day>
+        <Hour>10</Hour>
+        <Minute>45</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy1_Chapters</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>God's Will Be Done</Title>
+      <Note_ID>0_Trading_With_the_Enemy1_Chapters16_God's Will Be Done</Note_ID>
+      <ChapterNumeral>13</ChapterNumeral>
+      <Path>c:\writer\trading with the enemy\chapters\</Path>
+      <FileValid>True</FileValid>
+      <POV>Father Doyle</POV>
+      <Date-Time>
+        <Year>1845</Year>
+        <Month>6</Month>
+        <Day>12</Day>
+        <Hour>8</Hour>
+        <Minute>25</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy1_Chapters</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Peter</Title>
+      <Note_ID>0_Trading_With_the_Enemy1_Chapters17_Peter</Note_ID>
+      <ChapterNumeral>14</ChapterNumeral>
+      <Path>c:\writer\trading with the enemy\chapters\</Path>
+      <FileValid>True</FileValid>
+      <POV>Nativist</POV>
+      <Date-Time>
+        <Year>1845</Year>
+        <Month>6</Month>
+        <Day>13</Day>
+        <Hour>7</Hour>
+        <Minute>15</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy1_Chapters</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Irishman's Bible</Title>
+      <Note_ID>0_Trading_With_the_Enemy1_Chapters18_Irishman's Bible</Note_ID>
+      <ChapterNumeral>15</ChapterNumeral>
+      <Path>c:\writer\trading with the enemy\chapters\</Path>
+      <FileValid>True</FileValid>
+      <POV>Michael</POV>
+      <Date-Time>
+        <Year>1845</Year>
+        <Month>6</Month>
+        <Day>15</Day>
+        <Hour>9</Hour>
+        <Minute>15</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy1_Chapters</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Promising Debutante</Title>
+      <Note_ID>0_Trading_With_the_Enemy1_Chapters19_Promising Debutante</Note_ID>
+      <ChapterNumeral>16</ChapterNumeral>
+      <Path>c:\writer\trading with the enemy\chapters\</Path>
+      <FileValid>True</FileValid>
+      <POV>Dr Emmerson</POV>
+      <Date-Time>
+        <Year>1845</Year>
+        <Month>6</Month>
+        <Day>17</Day>
+        <Hour>9</Hour>
+        <Minute>29</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy1_Chapters</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Ablaze</Title>
+      <Note_ID>0_Trading_With_the_Enemy1_Chapters20_Ablaze</Note_ID>
+      <ChapterNumeral>17</ChapterNumeral>
+      <Path>c:\writer\trading with the enemy\chapters\</Path>
+      <FileValid>True</FileValid>
+      <POV>Michael</POV>
+      <Date-Time>
+        <Year>1845</Year>
+        <Month>6</Month>
+        <Day>18</Day>
+        <Hour>1</Hour>
+        <Minute>27</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy1_Chapters</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>1</Tab_1>
+        <Tab_2>1</Tab_2>
+        <Tab_3>162</Tab_3>
+        <Tab_4>87</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>End of Term</Title>
+      <Note_ID>0_Trading_With_the_Enemy1_Chapters21_End of Term</Note_ID>
+      <ChapterNumeral>18</ChapterNumeral>
+      <Path>c:\writer\trading with the enemy\chapters\</Path>
+      <FileValid>True</FileValid>
+      <POV>Meribel</POV>
+      <Date-Time>
+        <Year>1845</Year>
+        <Month>7</Month>
+        <Day>2</Day>
+        <Hour>10</Hour>
+        <Minute>12</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy1_Chapters</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Independence Day</Title>
+      <Note_ID>0_Trading_With_the_Enemy1_Chapters22_Independence Day</Note_ID>
+      <ChapterNumeral>19</ChapterNumeral>
+      <Path>c:\writer\trading with the enemy\chapters\</Path>
+      <FileValid>True</FileValid>
+      <POV>Michael</POV>
+      <Date-Time>
+        <Year>1845</Year>
+        <Month>7</Month>
+        <Day>4</Day>
+        <Hour>5</Hour>
+        <Minute>45</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy1_Chapters</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Mad House</Title>
+      <Note_ID>0_Trading_With_the_Enemy1_Chapters23_Mad House</Note_ID>
+      <ChapterNumeral>20</ChapterNumeral>
+      <Path>c:\writer\trading with the enemy\chapters\</Path>
+      <FileValid>True</FileValid>
+      <POV>Mairead O'Reilly</POV>
+      <Date-Time>
+        <Year>1845</Year>
+        <Month>7</Month>
+        <Day>6</Day>
+        <Hour>2</Hour>
+        <Minute>15</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy1_Chapters</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>The Twelfth</Title>
+      <Note_ID>0_Trading_With_the_Enemy1_Chapters24_The Twelfth</Note_ID>
+      <ChapterNumeral>22</ChapterNumeral>
+      <Path>c:\writer\trading with the enemy\chapters\</Path>
+      <FileValid>True</FileValid>
+      <POV>Michael</POV>
+      <Date-Time>
+        <Year>1845</Year>
+        <Month>7</Month>
+        <Day>12</Day>
+        <Hour>20</Hour>
+        <Minute>45</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy1_Chapters</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Station Master</Title>
+      <Note_ID>0_Trading_With_the_Enemy1_Chapters25_Station Master</Note_ID>
+      <ChapterNumeral>23</ChapterNumeral>
+      <Path>c:\writer\trading with the enemy\chapters\</Path>
+      <FileValid>True</FileValid>
+      <POV>Meribel</POV>
+      <Date-Time>
+        <Year>1845</Year>
+        <Month>7</Month>
+        <Day>16</Day>
+        <Hour>9</Hour>
+        <Minute>50</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy1_Chapters</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Rounders</Title>
+      <Note_ID>0_Trading_With_the_Enemy1_Chapters26_Rounders</Note_ID>
+      <ChapterNumeral>24</ChapterNumeral>
+      <Path>c:\writer\trading with the enemy\chapters\</Path>
+      <FileValid>True</FileValid>
+      <POV>Michael</POV>
+      <Date-Time>
+        <Year>1845</Year>
+        <Month>7</Month>
+        <Day>17</Day>
+        <Hour>9</Hour>
+        <Minute>49</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy1_Chapters</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Confessions</Title>
+      <Note_ID>0_Trading_With_the_Enemy1_Chapters27_Confessions</Note_ID>
+      <ChapterNumeral>25</ChapterNumeral>
+      <Path>c:\writer\trading with the enemy\chapters\</Path>
+      <FileValid>True</FileValid>
+      <POV>Father Doyle</POV>
+      <Date-Time>
+        <Year>1845</Year>
+        <Month>7</Month>
+        <Day>20</Day>
+        <Hour>11</Hour>
+        <Minute>30</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy1_Chapters</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Services</Title>
+      <Note_ID>0_Trading_With_the_Enemy1_Chapters28_Services</Note_ID>
+      <ChapterNumeral>26</ChapterNumeral>
+      <Path>c:\writer\trading with the enemy\chapters\</Path>
+      <FileValid>True</FileValid>
+      <POV>Father Doyle</POV>
+      <Date-Time>
+        <Year>1845</Year>
+        <Month>7</Month>
+        <Day>25</Day>
+        <Hour>8</Hour>
+        <Minute>30</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy1_Chapters</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>A Family Secret</Title>
+      <Note_ID>0_Trading_With_the_Enemy1_Chapters29_A Family Secret</Note_ID>
+      <ChapterNumeral>27</ChapterNumeral>
+      <Path>c:\writer\trading with the enemy\chapters\</Path>
+      <FileValid>True</FileValid>
+      <POV>Mrs Emmerson</POV>
+      <Date-Time>
+        <Year>1845</Year>
+        <Month>7</Month>
+        <Day>31</Day>
+        <Hour>13</Hour>
+        <Minute>0</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy1_Chapters</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>51</Tab_1>
+        <Tab_2>48</Tab_2>
+        <Tab_3>128</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Better Ramparts</Title>
+      <Note_ID>0_Trading_With_the_Enemy1_Chapters30_Better Ramparts</Note_ID>
+      <ChapterNumeral>28</ChapterNumeral>
+      <Path>c:\writer\trading with the enemy\chapters\</Path>
+      <FileValid>True</FileValid>
+      <POV>Michael</POV>
+      <Date-Time>
+        <Year>1845</Year>
+        <Month>8</Month>
+        <Day>3</Day>
+        <Hour>14</Hour>
+        <Minute>38</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy1_Chapters</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Flight from Asylum</Title>
+      <Note_ID>0_Trading_With_the_Enemy1_Chapters31_Flight from Asylum</Note_ID>
+      <ChapterNumeral>29</ChapterNumeral>
+      <Path>c:\writer\trading with the enemy\chapters\</Path>
+      <FileValid>True</FileValid>
+      <POV>Mairead O'Reilly</POV>
+      <Date-Time>
+        <Year>1845</Year>
+        <Month>8</Month>
+        <Day>15</Day>
+        <Hour>17</Hour>
+        <Minute>30</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy1_Chapters</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>A Boy's Terror</Title>
+      <Note_ID>0_Trading_With_the_Enemy1_Chapters32_A Boy's Terror</Note_ID>
+      <ChapterNumeral>30</ChapterNumeral>
+      <Path>c:\writer\trading with the enemy\chapters\</Path>
+      <FileValid>True</FileValid>
+      <POV>Michael</POV>
+      <Date-Time>
+        <Year>1845</Year>
+        <Month>8</Month>
+        <Day>17</Day>
+        <Hour>12</Hour>
+        <Minute>12</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy1_Chapters</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>A Sailor's Girl</Title>
+      <Note_ID>0_Trading_With_the_Enemy1_Chapters33_A Sailor's Girl</Note_ID>
+      <ChapterNumeral>31</ChapterNumeral>
+      <Path>c:\writer\trading with the enemy\chapters\</Path>
+      <FileValid>True</FileValid>
+      <POV>Beth Byrne</POV>
+      <Date-Time>
+        <Year>1845</Year>
+        <Month>8</Month>
+        <Day>29</Day>
+        <Hour>23</Hour>
+        <Minute>45</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy1_Chapters</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Maid in the Coop</Title>
+      <Note_ID>0_Trading_With_the_Enemy1_Chapters34_Maid in the Coop</Note_ID>
+      <ChapterNumeral>32</ChapterNumeral>
+      <Path>c:\writer\trading with the enemy\chapters\</Path>
+      <FileValid>True</FileValid>
+      <POV>Meribel</POV>
+      <Date-Time>
+        <Year>1845</Year>
+        <Month>9</Month>
+        <Day>4</Day>
+        <Hour>12</Hour>
+        <Minute>15</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy1_Chapters</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Lost Boy</Title>
+      <Note_ID>0_Trading_With_the_Enemy1_Chapters35_Lost Boy</Note_ID>
+      <ChapterNumeral>33</ChapterNumeral>
+      <Path>c:\writer\trading with the enemy\chapters\</Path>
+      <FileValid>True</FileValid>
+      <POV>Michael</POV>
+      <Date-Time>
+        <Year>1845</Year>
+        <Month>9</Month>
+        <Day>8</Day>
+        <Hour>6</Hour>
+        <Minute>58</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy1_Chapters</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Deliveries</Title>
+      <Note_ID>0_Trading_With_the_Enemy1_Chapters36_Deliveries</Note_ID>
+      <ChapterNumeral>34</ChapterNumeral>
+      <Path>c:\writer\trading with the enemy\chapters\</Path>
+      <FileValid>True</FileValid>
+      <POV>Cillian</POV>
+      <Date-Time>
+        <Year>1845</Year>
+        <Month>9</Month>
+        <Day>8</Day>
+        <Hour>20</Hour>
+        <Minute>52</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy1_Chapters</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>The Station House</Title>
+      <Note_ID>0_Trading_With_the_Enemy1_Chapters37_The Station House</Note_ID>
+      <ChapterNumeral>35</ChapterNumeral>
+      <Path>c:\writer\trading with the enemy\chapters\</Path>
+      <FileValid>True</FileValid>
+      <POV>Hua Tuo</POV>
+      <Date-Time>
+        <Year>1845</Year>
+        <Month>9</Month>
+        <Day>8</Day>
+        <Hour>21</Hour>
+        <Minute>0</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy1_Chapters</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Strange Abode</Title>
+      <Note_ID>0_Trading_With_the_Enemy1_Chapters38_Strange Abode</Note_ID>
+      <ChapterNumeral>36</ChapterNumeral>
+      <Path>c:\writer\trading with the enemy\chapters\</Path>
+      <FileValid>True</FileValid>
+      <POV>Michael</POV>
+      <Date-Time>
+        <Year>1845</Year>
+        <Month>9</Month>
+        <Day>8</Day>
+        <Hour>21</Hour>
+        <Minute>45</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy1_Chapters</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Prologue</Title>
+      <Note_ID>0_Trading_With_the_Enemy1_Chapters39_Prologue</Note_ID>
+      <ChapterNumeral>37</ChapterNumeral>
+      <Path>c:\writer\trading with the enemy\chapters\</Path>
+      <FileValid>True</FileValid>
+      <POV>Edwin</POV>
+      <Date-Time>
+        <Year>1845</Year>
+        <Month>9</Month>
+        <Day>8</Day>
+        <Hour>23</Hour>
+        <Minute>59</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy1_Chapters</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Lost Dove</Title>
+      <Note_ID>0_Trading_With_the_Enemy1_Chapters40_Lost Dove</Note_ID>
+      <ChapterNumeral>38</ChapterNumeral>
+      <Path>c:\writer\trading with the enemy\chapters\</Path>
+      <FileValid>True</FileValid>
+      <POV>Dr Emmerson</POV>
+      <Date-Time>
+        <Year>1845</Year>
+        <Month>9</Month>
+        <Day>9</Day>
+        <Hour>11</Hour>
+        <Minute>12</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy1_Chapters</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>the Jesuit</Title>
+      <Note_ID>0_Trading_With_the_Enemy1_Chapters41_the Jesuit</Note_ID>
+      <ChapterNumeral>39</ChapterNumeral>
+      <Path>c:\writer\trading with the enemy\chapters\</Path>
+      <FileValid>True</FileValid>
+      <POV>Hua Tuo</POV>
+      <Date-Time>
+        <Year>1845</Year>
+        <Month>9</Month>
+        <Day>9</Day>
+        <Hour>13</Hour>
+        <Minute>15</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy1_Chapters</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Dead Rabbits</Title>
+      <Note_ID>0_Trading_With_the_Enemy1_Chapters42_Dead Rabbits</Note_ID>
+      <ChapterNumeral>40</ChapterNumeral>
+      <Path>c:\writer\trading with the enemy\chapters\</Path>
+      <FileValid>True</FileValid>
+      <POV>Father Doyle</POV>
+      <Date-Time>
+        <Year>1845</Year>
+        <Month>9</Month>
+        <Day>9</Day>
+        <Hour>16</Hour>
+        <Minute>15</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy1_Chapters</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Epilogue</Title>
+      <Note_ID>0_Trading_With_the_Enemy1_Chapters43_Epilogue</Note_ID>
+      <ChapterNumeral>41</ChapterNumeral>
+      <Path>c:\writer\trading with the enemy\chapters\</Path>
+      <FileValid>True</FileValid>
+      <POV>Michael</POV>
+      <Date-Time>
+        <Year>1845</Year>
+        <Month>10</Month>
+        <Day>3</Day>
+        <Hour>21</Hour>
+        <Minute>35</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy1_Chapters</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Trading With The Enemy</Title>
+      <Note_ID>0_Trading_With_the_Enemy1_Chapters44_Trading With The Enemy</Note_ID>
+      <ChapterNumeral>0</ChapterNumeral>
+      <Path>c:\writer\trading with the enemy\chapters\</Path>
+      <FileValid>True</FileValid>
+      <POV>
+      </POV>
+      <Date-Time>
+        <Year>1845</Year>
+        <Month>6</Month>
+        <Day>0</Day>
+        <Hour>0</Hour>
+        <Minute>0</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy1_Chapters</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>1</Tab_1>
+        <Tab_2>1</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Character Descriptions</Title>
+      <Note_ID>0_Trading_With_the_Enemy45_Character Descriptions</Note_ID>
+      <ChapterNumeral>0</ChapterNumeral>
+      <Path>c:\writer\trading with the enemy\chapters\</Path>
+      <FileValid>False</FileValid>
+      <POV>
+      </POV>
+      <Date-Time>
+        <Year>0</Year>
+        <Month>0</Month>
+        <Day>0</Day>
+        <Hour>0</Hour>
+        <Minute>0</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>4</Tab_1>
+        <Tab_2>4</Tab_2>
+        <Tab_3>265</Tab_3>
+        <Tab_4>10</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Historical events</Title>
+      <Note_ID>0_Trading_With_the_Enemy46_Historical events</Note_ID>
+      <ChapterNumeral>0</ChapterNumeral>
+      <Path>c:\writer\trading with the enemy\chapters\</Path>
+      <FileValid>False</FileValid>
+      <POV>
+      </POV>
+      <Date-Time>
+        <Year>0</Year>
+        <Month>0</Month>
+        <Day>0</Day>
+        <Hour>0</Hour>
+        <Minute>0</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>1</Tab_1>
+        <Tab_2>7</Tab_2>
+        <Tab_3>274</Tab_3>
+        <Tab_4>37</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Archbishop Samuel Eccleston P.S.S.</Title>
+      <Note_ID>0_Trading_With_the_Enemy45_Character Descriptions48_Archbishop Samuel Eccleston P.S.S.</Note_ID>
+      <ChapterNumeral>0</ChapterNumeral>
+      <Path>C:\Writer\Trading With the Enemy\</Path>
+      <FileValid>True</FileValid>
+      <POV>
+      </POV>
+      <Date-Time>
+        <Year>0</Year>
+        <Month>0</Month>
+        <Day>0</Day>
+        <Hour>0</Hour>
+        <Minute>0</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy45_Character Descriptions</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Bishop Jean-Louis Lefebvre de Cheverus</Title>
+      <Note_ID>0_Trading_With_the_Enemy45_Character Descriptions49_Bishop Jean-Louis Lefebvre de Cheverus</Note_ID>
+      <ChapterNumeral>0</ChapterNumeral>
+      <Path>C:\Writer\Trading With the Enemy\</Path>
+      <FileValid>True</FileValid>
+      <POV>
+      </POV>
+      <Date-Time>
+        <Year>0</Year>
+        <Month>0</Month>
+        <Day>0</Day>
+        <Hour>0</Hour>
+        <Minute>0</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy45_Character Descriptions</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Bishop John Hughes </Title>
+      <Note_ID>0_Trading_With_the_Enemy45_Character Descriptions50_Bishop John Hughes </Note_ID>
+      <ChapterNumeral>0</ChapterNumeral>
+      <Path>C:\Writer\Trading With the Enemy\</Path>
+      <FileValid>True</FileValid>
+      <POV>
+      </POV>
+      <Date-Time>
+        <Year>0</Year>
+        <Month>0</Month>
+        <Day>0</Day>
+        <Hour>0</Hour>
+        <Minute>0</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy45_Character Descriptions</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Boylston school </Title>
+      <Note_ID>0_Trading_With_the_Enemy45_Character Descriptions51_Boylston school </Note_ID>
+      <ChapterNumeral>0</ChapterNumeral>
+      <Path>C:\Writer\Trading With the Enemy\</Path>
+      <FileValid>True</FileValid>
+      <POV>
+      </POV>
+      <Date-Time>
+        <Year>0</Year>
+        <Month>0</Month>
+        <Day>0</Day>
+        <Hour>0</Hour>
+        <Minute>0</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy45_Character Descriptions</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Brothel</Title>
+      <Note_ID>0_Trading_With_the_Enemy45_Character Descriptions52_Brothel</Note_ID>
+      <ChapterNumeral>0</ChapterNumeral>
+      <Path>C:\Writer\Trading With the Enemy\</Path>
+      <FileValid>True</FileValid>
+      <POV>
+      </POV>
+      <Date-Time>
+        <Year>0</Year>
+        <Month>0</Month>
+        <Day>0</Day>
+        <Hour>0</Hour>
+        <Minute>0</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy45_Character Descriptions</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Captain Seamus McCarthy</Title>
+      <Note_ID>0_Trading_With_the_Enemy45_Character Descriptions53_Captain Seamus McCarthy</Note_ID>
+      <ChapterNumeral>0</ChapterNumeral>
+      <Path>C:\Writer\Trading With the Enemy\</Path>
+      <FileValid>True</FileValid>
+      <POV>
+      </POV>
+      <Date-Time>
+        <Year>0</Year>
+        <Month>0</Month>
+        <Day>0</Day>
+        <Hour>0</Hour>
+        <Minute>0</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy45_Character Descriptions</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Colonel Emory Upton</Title>
+      <Note_ID>0_Trading_With_the_Enemy45_Character Descriptions54_Colonel Emory Upton</Note_ID>
+      <ChapterNumeral>0</ChapterNumeral>
+      <Path>C:\Writer\Trading With the Enemy\</Path>
+      <FileValid>True</FileValid>
+      <POV>
+      </POV>
+      <Date-Time>
+        <Year>0</Year>
+        <Month>0</Month>
+        <Day>0</Day>
+        <Hour>0</Hour>
+        <Minute>0</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy45_Character Descriptions</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>John Morrissey</Title>
+      <Note_ID>0_Trading_With_the_Enemy45_Character Descriptions55_John Morrissey</Note_ID>
+      <ChapterNumeral>0</ChapterNumeral>
+      <Path>C:\Writer\Trading With the Enemy\</Path>
+      <FileValid>True</FileValid>
+      <POV>
+      </POV>
+      <Date-Time>
+        <Year>0</Year>
+        <Month>0</Month>
+        <Day>0</Day>
+        <Hour>0</Hour>
+        <Minute>0</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy45_Character Descriptions</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>John Warren</Title>
+      <Note_ID>0_Trading_With_the_Enemy45_Character Descriptions56_John Warren</Note_ID>
+      <ChapterNumeral>0</ChapterNumeral>
+      <Path>C:\Writer\Trading With the Enemy\</Path>
+      <FileValid>True</FileValid>
+      <POV>
+      </POV>
+      <Date-Time>
+        <Year>0</Year>
+        <Month>0</Month>
+        <Day>0</Day>
+        <Hour>0</Hour>
+        <Minute>0</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy45_Character Descriptions</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Mairead O'Reilly</Title>
+      <Note_ID>0_Trading_With_the_Enemy45_Character Descriptions57_Mairead O'Reilly</Note_ID>
+      <ChapterNumeral>0</ChapterNumeral>
+      <Path>C:\Writer\Trading With the Enemy\</Path>
+      <FileValid>True</FileValid>
+      <POV>
+      </POV>
+      <Date-Time>
+        <Year>0</Year>
+        <Month>0</Month>
+        <Day>0</Day>
+        <Hour>0</Hour>
+        <Minute>0</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy45_Character Descriptions</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Mary-Lynn</Title>
+      <Note_ID>0_Trading_With_the_Enemy45_Character Descriptions58_Mary-Lynn</Note_ID>
+      <ChapterNumeral>0</ChapterNumeral>
+      <Path>C:\Writer\Trading With the Enemy\</Path>
+      <FileValid>True</FileValid>
+      <POV>
+      </POV>
+      <Date-Time>
+        <Year>0</Year>
+        <Month>0</Month>
+        <Day>0</Day>
+        <Hour>0</Hour>
+        <Minute>0</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy45_Character Descriptions</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Meribel</Title>
+      <Note_ID>0_Trading_With_the_Enemy45_Character Descriptions59_Meribel</Note_ID>
+      <ChapterNumeral>0</ChapterNumeral>
+      <Path>C:\Writer\Trading With the Enemy\</Path>
+      <FileValid>True</FileValid>
+      <POV>
+      </POV>
+      <Date-Time>
+        <Year>0</Year>
+        <Month>0</Month>
+        <Day>0</Day>
+        <Hour>0</Hour>
+        <Minute>0</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy45_Character Descriptions</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Merrimac School for Girls</Title>
+      <Note_ID>0_Trading_With_the_Enemy45_Character Descriptions60_Merrimac School for Girls</Note_ID>
+      <ChapterNumeral>0</ChapterNumeral>
+      <Path>C:\Writer\Trading With the Enemy\</Path>
+      <FileValid>True</FileValid>
+      <POV>
+      </POV>
+      <Date-Time>
+        <Year>0</Year>
+        <Month>0</Month>
+        <Day>0</Day>
+        <Hour>0</Hour>
+        <Minute>0</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy45_Character Descriptions</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Mr Arthur Jenkins</Title>
+      <Note_ID>0_Trading_With_the_Enemy45_Character Descriptions61_Mr Arthur Jenkins</Note_ID>
+      <ChapterNumeral>0</ChapterNumeral>
+      <Path>C:\Writer\Trading With the Enemy\</Path>
+      <FileValid>True</FileValid>
+      <POV>
+      </POV>
+      <Date-Time>
+        <Year>0</Year>
+        <Month>0</Month>
+        <Day>0</Day>
+        <Hour>0</Hour>
+        <Minute>0</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy45_Character Descriptions</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Nathaniel Hawthorne</Title>
+      <Note_ID>0_Trading_With_the_Enemy45_Character Descriptions62_Nathaniel Hawthorne</Note_ID>
+      <ChapterNumeral>0</ChapterNumeral>
+      <Path>C:\Writer\Trading With the Enemy\</Path>
+      <FileValid>True</FileValid>
+      <POV>
+      </POV>
+      <Date-Time>
+        <Year>0</Year>
+        <Month>0</Month>
+        <Day>0</Day>
+        <Hour>0</Hour>
+        <Minute>0</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy45_Character Descriptions</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Nativist Members</Title>
+      <Note_ID>0_Trading_With_the_Enemy45_Character Descriptions63_Nativist Members</Note_ID>
+      <ChapterNumeral>0</ChapterNumeral>
+      <Path>C:\Writer\Trading With the Enemy\</Path>
+      <FileValid>True</FileValid>
+      <POV>
+      </POV>
+      <Date-Time>
+        <Year>0</Year>
+        <Month>0</Month>
+        <Day>0</Day>
+        <Hour>0</Hour>
+        <Minute>0</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy45_Character Descriptions</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>the Emmersons</Title>
+      <Note_ID>0_Trading_With_the_Enemy45_Character Descriptions64_the Emmersons</Note_ID>
+      <ChapterNumeral>0</ChapterNumeral>
+      <Path>C:\Writer\Trading With the Enemy\</Path>
+      <FileValid>True</FileValid>
+      <POV>
+      </POV>
+      <Date-Time>
+        <Year>0</Year>
+        <Month>0</Month>
+        <Day>0</Day>
+        <Hour>0</Hour>
+        <Minute>0</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy45_Character Descriptions</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Yishan</Title>
+      <Note_ID>0_Trading_With_the_Enemy45_Character Descriptions65_Yishan</Note_ID>
+      <ChapterNumeral>0</ChapterNumeral>
+      <Path>C:\Writer\Trading With the Enemy\</Path>
+      <FileValid>True</FileValid>
+      <POV>
+      </POV>
+      <Date-Time>
+        <Year>0</Year>
+        <Month>0</Month>
+        <Day>0</Day>
+        <Hour>0</Hour>
+        <Minute>0</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy45_Character Descriptions</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>S.J. Bishop Benedict Fenwick</Title>
+      <Note_ID>0_Trading_With_the_Enemy45_Character Descriptions66_S.J. Bishop Benedict Fenwick</Note_ID>
+      <ChapterNumeral>0</ChapterNumeral>
+      <Path>C:\Writer\Trading With the Enemy\</Path>
+      <FileValid>True</FileValid>
+      <POV>
+      </POV>
+      <Date-Time>
+        <Year>0</Year>
+        <Month>0</Month>
+        <Day>0</Day>
+        <Hour>0</Hour>
+        <Minute>0</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy45_Character Descriptions</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>S.J. Father Tuo McPherson</Title>
+      <Note_ID>0_Trading_With_the_Enemy45_Character Descriptions67_S.J. Father Tuo McPherson</Note_ID>
+      <ChapterNumeral>0</ChapterNumeral>
+      <Path>C:\Writer\Trading With the Enemy\</Path>
+      <FileValid>True</FileValid>
+      <POV>
+      </POV>
+      <Date-Time>
+        <Year>0</Year>
+        <Month>0</Month>
+        <Day>0</Day>
+        <Hour>0</Hour>
+        <Minute>0</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy45_Character Descriptions</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>S.J. Father Conor Doyle</Title>
+      <Note_ID>0_Trading_With_the_Enemy45_Character Descriptions68_S.J. Father Conor Doyle</Note_ID>
+      <ChapterNumeral>0</ChapterNumeral>
+      <Path>C:\Writer\Trading With the Enemy\</Path>
+      <FileValid>True</FileValid>
+      <POV>
+      </POV>
+      <Date-Time>
+        <Year>0</Year>
+        <Month>0</Month>
+        <Day>0</Day>
+        <Hour>0</Hour>
+        <Minute>0</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy45_Character Descriptions</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Civil War</Title>
+      <Note_ID>0_Trading_With_the_Enemy46_Historical events69_Civil War</Note_ID>
+      <ChapterNumeral>0</ChapterNumeral>
+      <Path>C:\Writer\Trading With the Enemy\</Path>
+      <FileValid>True</FileValid>
+      <POV>
+      </POV>
+      <Date-Time>
+        <Year>0</Year>
+        <Month>0</Month>
+        <Day>0</Day>
+        <Hour>0</Hour>
+        <Minute>0</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy46_Historical events</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>First Opium War</Title>
+      <Note_ID>0_Trading_With_the_Enemy46_Historical events70_First Opium War</Note_ID>
+      <ChapterNumeral>0</ChapterNumeral>
+      <Path>C:\Writer\Trading With the Enemy\</Path>
+      <FileValid>True</FileValid>
+      <POV>
+      </POV>
+      <Date-Time>
+        <Year>0</Year>
+        <Month>0</Month>
+        <Day>0</Day>
+        <Hour>0</Hour>
+        <Minute>0</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy46_Historical events</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Ireland</Title>
+      <Note_ID>0_Trading_With_the_Enemy46_Historical events71_Ireland</Note_ID>
+      <ChapterNumeral>0</ChapterNumeral>
+      <Path>C:\Writer\Trading With the Enemy\</Path>
+      <FileValid>True</FileValid>
+      <POV>
+      </POV>
+      <Date-Time>
+        <Year>0</Year>
+        <Month>0</Month>
+        <Day>0</Day>
+        <Hour>0</Hour>
+        <Minute>0</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy46_Historical events</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Irish Potato Famine</Title>
+      <Note_ID>0_Trading_With_the_Enemy46_Historical events72_Irish Potato Famine</Note_ID>
+      <ChapterNumeral>0</ChapterNumeral>
+      <Path>C:\Writer\Trading With the Enemy\</Path>
+      <FileValid>True</FileValid>
+      <POV>
+      </POV>
+      <Date-Time>
+        <Year>0</Year>
+        <Month>0</Month>
+        <Day>0</Day>
+        <Hour>0</Hour>
+        <Minute>0</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy46_Historical events</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Mexican-American War</Title>
+      <Note_ID>0_Trading_With_the_Enemy46_Historical events73_Mexican-American War</Note_ID>
+      <ChapterNumeral>0</ChapterNumeral>
+      <Path>C:\Writer\Trading With the Enemy\</Path>
+      <FileValid>True</FileValid>
+      <POV>
+      </POV>
+      <Date-Time>
+        <Year>0</Year>
+        <Month>0</Month>
+        <Day>0</Day>
+        <Hour>0</Hour>
+        <Minute>0</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy46_Historical events</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Panic of 1837</Title>
+      <Note_ID>0_Trading_With_the_Enemy46_Historical events74_Panic of 1837</Note_ID>
+      <ChapterNumeral>0</ChapterNumeral>
+      <Path>C:\Writer\Trading With the Enemy\</Path>
+      <FileValid>True</FileValid>
+      <POV>
+      </POV>
+      <Date-Time>
+        <Year>0</Year>
+        <Month>0</Month>
+        <Day>0</Day>
+        <Hour>0</Hour>
+        <Minute>0</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy46_Historical events</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Second Great Awakening</Title>
+      <Note_ID>0_Trading_With_the_Enemy46_Historical events75_Second Great Awakening</Note_ID>
+      <ChapterNumeral>0</ChapterNumeral>
+      <Path>C:\Writer\Trading With the Enemy\</Path>
+      <FileValid>True</FileValid>
+      <POV>
+      </POV>
+      <Date-Time>
+        <Year>0</Year>
+        <Month>0</Month>
+        <Day>0</Day>
+        <Hour>0</Hour>
+        <Minute>0</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy46_Historical events</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+    <xNote>
+      <Title>Slavery</Title>
+      <Note_ID>0_Trading_With_the_Enemy46_Historical events76_Slavery</Note_ID>
+      <ChapterNumeral>0</ChapterNumeral>
+      <Path>C:\Writer\Trading With the Enemy\</Path>
+      <FileValid>True</FileValid>
+      <POV>
+      </POV>
+      <Date-Time>
+        <Year>0</Year>
+        <Month>0</Month>
+        <Day>0</Day>
+        <Hour>0</Hour>
+        <Minute>0</Minute>
+      </Date-Time>
+      <Caret>0</Caret>
+      <Parent>0_Trading_With_the_Enemy46_Historical events</Parent>
+      <TabWidths>
+        <Tab_0>20</Tab_0>
+        <Tab_1>200</Tab_1>
+        <Tab_2>90</Tab_2>
+        <Tab_3>90</Tab_3>
+        <Tab_4>200</Tab_4>
+      </TabWidths>
+    </xNote>
+  </HeadingList>
+</Root>
